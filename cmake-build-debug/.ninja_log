@@ -41,3 +41,8 @@
 2771	6292	7750053113198288	ProjectUnitTest.exe	dd08018df701e12d
 31	2243	7750063866511464	CMakeFiles/ProjectUnitTest.dir/test/MessageTest.cpp.obj	af56ffb909443579
 2244	8030	7750063922902234	ProjectUnitTest.exe	dd08018df701e12d
+70	3470	7750089757662965	CMakeFiles/ProjectUnitTest.dir/test/ChatTest.cpp.obj	ed566242fdd2297c
+45	3472	7750089757652972	CMakeFiles/ProjectUnitTest.dir/test/MessageTest.cpp.obj	af56ffb909443579
+3472	6832	7750089791342103	ProjectUnitTest.exe	dd08018df701e12d
+116	3194	7750099015469531	CMakeFiles/ProjectUnitTest.dir/test/ChatRegistryTest.cpp.obj	9f41d008543d8b95
+3197	9483	7750099078438387	ProjectUnitTest.exe	dd08018df701e12d
